@@ -1,1 +1,1 @@
-# JavaScript-para-Web-Crie-p-ginas-din-micas
+# JavaScript-para-Web-Crie-paginas-dinâmicas
